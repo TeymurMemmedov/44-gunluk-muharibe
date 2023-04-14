@@ -13,7 +13,7 @@ Həmçinin istifadəçilərə 3 seçim təklif etdim
 - Kənd sayı artma sırası ilə
 - Azad olunma ardıcıllığı ilə.
 
-### Addım 3 : Daha çox statistika(Hələ yazılmayıb)
+### Addım 3 : Daha çox statistika
 Bir buton olacaq, ona klik edildikdə arxa fon qaralacaq,
 istifadəçiyə bir dialog box daxilində aşağıdakı datalar göstəriləcək
 - Ən çox kəndi olan rayon
