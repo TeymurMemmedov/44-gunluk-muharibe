@@ -1,4 +1,4 @@
-### [Live](https://44gunlukmuharibe.netlify.app)
+### [Proyektin Live-ı](https://44gunlukmuharibe.netlify.app)
 # 44-gunluk-muharibe
 
 ## Proyektin yazılma addımları
